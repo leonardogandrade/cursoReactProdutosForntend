@@ -1,0 +1,25 @@
+.login-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 400px;
+    margin: 20px auto 0;
+    padding : 40px;
+    background: #fff;
+    border-radius: 5px;
+    border : 1px solid #ddd;
+}
+input {
+    width: 250px;
+    height: 30px;
+    margin-top: 5px;
+}
+
+button {
+    width: 250px;
+    height: 40px;
+    background-color: #da552f;
+    margin-top: 5px;
+    color: #ffffff;
+    font-weight: bold;
+}
